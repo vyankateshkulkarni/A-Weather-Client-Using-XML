@@ -29,8 +29,6 @@ import gov.weather.graphical.xml.DWMLgen.wsdl.ndfdXML_wsdl.NdfdXMLPortTypeProxy;
 import gov.weather.graphical.xml.DWMLgen.wsdl.ndfdXML_wsdl.WeatherParametersType;
 /*
  * Name : Vyankatesh Manohar Kulkarni
- * Student Id: 1001409017.
- * Lab 3 : A Weather Client Using XML
  * */
 
 //Client class 
